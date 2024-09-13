@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 20px;
+    height: 100vh;
+}
+
+body,
+button {
+    font-size: 25px;
+}
